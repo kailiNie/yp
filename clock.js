@@ -23,6 +23,8 @@ var height = ctx.canvas.height;
     	ctx.fillText(number,x,y);
     });
 
+
+
     //把弧度分为60份
     for(var i = 60;i>=0 ;i --){
     	var rad = 2*Math.PI/60 * i;
