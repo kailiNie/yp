@@ -1,4 +1,5 @@
-﻿var dom = document.getElementById('clock');
+﻿//测试git
+var dom = document.getElementById('clock');
 var ctx = dom.getContext('2d');
 var width = ctx.canvas.width;
 var height = ctx.canvas.height;
